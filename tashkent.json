@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "5dfd2f22d34d9723959287fcfa9e44aa",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          76.94860836672295,
+          43.238536307029044
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94899447274048,
+            43.23874689173303
+          ],
+          [
+            76.94852004033731,
+            43.238637302703296
+          ],
+          [
+            76.94885561447694,
+            43.238190514619816
+          ]
+        ],
+        "type": "LineString"
+      }
+    }
+  ]
+}
