@@ -7,10 +7,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          76.94899953762345,
-          43.238963661648796
+          76.94895883811509,
+          43.2389857598007
         ],
-        "morning": 450
+        "morning": 450,
+        "orientation": "vert"
       },
       "geometry": {
         "coordinates": [
