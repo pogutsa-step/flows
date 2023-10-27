@@ -12,7 +12,9 @@
         ],
         "morning": 450,
         "orientation": "hor",
-        "night": 98
+        "night": 98,
+        "day": 40,
+        "weekend": 40
       },
       "geometry": {
         "coordinates": [
@@ -49,7 +51,9 @@
           76.94866006975413,
           43.23830560651376
         ],
-        "morning": 400
+        "morning": 400,
+        "day": 44,
+        "weekend": 4
       },
       "geometry": {
         "coordinates": [
@@ -91,7 +95,9 @@
           43.23823247304936
         ],
         "orientation": "hor",
-        "morning": 66
+        "morning": 66,
+        "day": 50,
+        "weekend": 80
       },
       "geometry": {
         "coordinates": [
@@ -130,7 +136,9 @@
         ],
         "orientation": "vert",
         "morning": 70,
-        "night": 800
+        "night": 800,
+        "day": 88,
+        "weekend": 5
       },
       "geometry": {
         "coordinates": [
