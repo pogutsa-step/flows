@@ -7,11 +7,12 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          76.94884214420281,
-          43.239125808632785
+          76.9488583154518,
+          43.2390916307499
         ],
         "morning": 450,
-        "orientation": "hor"
+        "orientation": "hor",
+        "night": 98
       },
       "geometry": {
         "coordinates": [
@@ -89,7 +90,8 @@
           76.94900452615013,
           43.23823247304936
         ],
-        "orientation": "hor"
+        "orientation": "hor",
+        "morning": 66
       },
       "geometry": {
         "coordinates": [
@@ -126,7 +128,9 @@
           76.94976691399428,
           43.2390533115102
         ],
-        "orientation": "vert"
+        "orientation": "vert",
+        "morning": 70,
+        "night": 800
       },
       "geometry": {
         "coordinates": [
