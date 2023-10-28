@@ -498,6 +498,61 @@
         ],
         "type": "LineString"
       }
+    },
+    {
+      "id": "8fa8089be46729f52439c7675b004b52",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          76.94832306515356,
+          43.238729115503936
+        ],
+        "orientation": "vert",
+        "morning": 250
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94861681726763,
+            43.23926302571084
+          ],
+          [
+            76.94864054293083,
+            43.23878828127522
+          ],
+          [
+            76.94801599302383,
+            43.23867188894923
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "111405fec2a7de206f2e1d986bfe67d8",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          76.9486466017637,
+          43.23864222309017
+        ],
+        "morning": 324
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94862050366305,
+            43.23884713644111
+          ],
+          [
+            76.94867269968881,
+            43.238437309733314
+          ]
+        ],
+        "type": "LineString"
+      }
     }
   ]
 }
