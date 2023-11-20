@@ -157,351 +157,6 @@
       }
     },
     {
-      "id": "317cccb3d5220e79dc67604fb63e938b",
-      "type": "Feature",
-      "properties": {
-        "type": "ped",
-        "labelPos": [
-          76.94876323323089,
-          43.239173902392416
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.9485525620496,
-            43.239155236431145
-          ],
-          [
-            76.94897390454128,
-            43.23919256796711
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "6926782eb7047de298b34978e3b18d6d",
-      "type": "Feature",
-      "properties": {
-        "type": "ped",
-        "labelPos": [
-          76.9498108957538,
-          43.238875249062325
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94978812043837,
-            43.23899761413847
-          ],
-          [
-            76.94983367097774,
-            43.23875288398165
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "1a552c83ae0fde90fccf96fe01177e49",
-      "type": "Feature",
-      "properties": {
-        "type": "bike",
-        "labelPos": [
-          76.94886173848288,
-          43.238246975086994
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94863398596289,
-            43.238199273058
-          ],
-          [
-            76.94908949135947,
-            43.2382946766642
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "5e5742a78f8978a0d332bb00d262a7e5",
-      "type": "Feature",
-      "properties": {
-        "type": "bike",
-        "labelPos": [
-          76.94880310549118,
-          43.23898797711063
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94860536174434,
-            43.238975266039716
-          ],
-          [
-            76.9490008493205,
-            43.23900068784096
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "22a9ccd3b033992fa1a4863ab04380a1",
-      "type": "Feature",
-      "properties": {
-        "type": "bike",
-        "labelPos": [
-          76.94906094795495,
-          43.2387111609661
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94904737726972,
-            43.23885945547849
-          ],
-          [
-            76.9490745185741,
-            43.2385628664521
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "9205c3f63b9fe29417a24c25bd287585",
-      "type": "Feature",
-      "properties": {
-        "type": "bike",
-        "labelPos": [
-          76.9486247484003,
-          43.238665966409165
-        ],
-        "arrow": false
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94862087106111,
-            43.238822735010814
-          ],
-          [
-            76.94862862571955,
-            43.23850919780739
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "fe2d9982eb050731577cacbea92bc6a3",
-      "type": "Feature",
-      "properties": {
-        "arrow": true,
-        "type": "bike",
-        "labelPos": [
-          76.94814202077505,
-          43.238430107325115
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94790356516359,
-            43.23839621103238
-          ],
-          [
-            76.94838047665183,
-            43.23846400312257
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "cffc8091413bab12be725d362d9807d8",
-      "type": "Feature",
-      "properties": {
-        "arrow": true,
-        "type": "bike",
-        "labelPos": [
-          76.94948997412608,
-          43.23898495232959
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94965282197779,
-            43.23899483847063
-          ],
-          [
-            76.9493271263272,
-            43.23897506595756
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "a3809133433bc45928869819d0fa3491",
-      "type": "Feature",
-      "properties": {
-        "arrow": true,
-        "type": "bike",
-        "labelPos": [
-          76.94962748776862,
-          43.238645032729636
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94948984262464,
-            43.238626672354
-          ],
-          [
-            76.94976513299554,
-            43.23866339294025
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "f6016104932cf5b3acf9afc2818ef98e",
-      "type": "Feature",
-      "properties": {
-        "arrow": true,
-        "type": "bike",
-        "labelPos": [
-          76.94920098158846,
-          43.23843035803116
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94919128827735,
-            43.238355504264916
-          ],
-          [
-            76.94921067492339,
-            43.238505211796564
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "29c4b682826e2d5b67867312cea840fe",
-      "type": "Feature",
-      "properties": {
-        "arrow": true,
-        "type": "bike",
-        "labelPos": [
-          76.9485031527024,
-          43.23891557896816
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94850509136933,
-            43.238989019813886
-          ],
-          [
-            76.94850121404016,
-            43.23884213812241
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "b20f10f1825938a44937c432ac391e08",
-      "type": "Feature",
-      "properties": {
-        "arrow": true,
-        "type": "bike",
-        "labelPos": [
-          76.94908475210444,
-          43.2390539865455
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94910220006159,
-            43.23896924729894
-          ],
-          [
-            76.94906730409878,
-            43.23913872578942
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "bb64ebebf72e3cb674ddaa9c8d956468",
-      "type": "Feature",
-      "properties": {
-        "arrow": true,
-        "type": "bike",
-        "labelPos": [
-          76.9482104142685,
-          43.238788469855436
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94838877149328,
-            43.238816716255
-          ],
-          [
-            76.9480320572091,
-            43.23876022317879
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "a32708c5708858135605a2a94f345582",
-      "type": "Feature",
-      "properties": {
-        "arrow": true,
-        "type": "bike",
-        "labelPos": [
-          76.94853083510382,
-          43.238316545853245
-        ]
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94852366073411,
-            43.23840017141603
-          ],
-          [
-            76.94853800945384,
-            43.23823292029002
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
       "id": "8fa8089be46729f52439c7675b004b52",
       "type": "Feature",
       "properties": {
@@ -526,31 +181,6 @@
           [
             76.94801599302383,
             43.23867188894923
-          ]
-        ],
-        "type": "LineString"
-      }
-    },
-    {
-      "id": "111405fec2a7de206f2e1d986bfe67d8",
-      "type": "Feature",
-      "properties": {
-        "type": "transport",
-        "labelPos": [
-          76.9486466017637,
-          43.23864222309017
-        ],
-        "morning": 324
-      },
-      "geometry": {
-        "coordinates": [
-          [
-            76.94862050366305,
-            43.23884713644111
-          ],
-          [
-            76.94867269968881,
-            43.238437309733314
           ]
         ],
         "type": "LineString"
@@ -2248,6 +1878,4845 @@
           [
             76.76191537029035,
             43.22834899598615
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ec2215ea439a419f0e25b40d620f43d2",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92740503125215,
+          43.24131211917519
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92739475461701,
+            43.241389976287564
+          ],
+          [
+            76.92741530786105,
+            43.24123426206191
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "bf92ea8b3f34d00c5589033e68e86e94",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92743483345468,
+          43.241311370546114
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92744408240287,
+            43.2412312675537
+          ],
+          [
+            76.9274255844822,
+            43.24139147353779
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "3d3688cbb4e1160b47d9a58105cf041a",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92774245833147,
+          43.24118018361386
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92762185833857,
+            43.24117155500667
+          ],
+          [
+            76.92786305835853,
+            43.24118881209435
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e0c31c73a9ca8ea99ceb577791fb39c5",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92774784225757,
+          43.241204500420025
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92787382621549,
+            43.24121391330405
+          ],
+          [
+            76.92762185833857,
+            43.241195087397784
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "855fd5acc232eb4ba8e0c0852039d365",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9275335619375,
+          43.24105859927709
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92755079047515,
+            43.240934661761315
+          ],
+          [
+            76.92751633332972,
+            43.24118253679029
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "3b4fb4ae9787970fa0847efbb451d678",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92749802800678,
+          43.2410625213582
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92747972261174,
+            43.24118253679029
+          ],
+          [
+            76.92751633332972,
+            43.240942505923186
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ce2253c32a601c564acfe840f9876d3f",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92732050305213,
+          43.24090589190615
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9274716895992,
+            43.24091904241084
+          ],
+          [
+            76.92716931657031,
+            43.24089274120237
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "35fb2f8c6427f70142fef7bd077de3e6",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92732614433302,
+          43.24087054964853
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92717382960058,
+            43.240854933196346
+          ],
+          [
+            76.92747845914357,
+            43.240886165898644
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "76023781483296a6eadeec4a89f629fd",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92663366415096,
+          43.24083788191726
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92681462284378,
+            43.240850087779876
+          ],
+          [
+            76.92645270553061,
+            43.24082567576943
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "bcaba632b51a647ad053b4de1ab17b5d",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92664036631247,
+          43.24079271968007
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92645940770302,
+            43.240776851718635
+          ],
+          [
+            76.92682132501619,
+            43.2408085873563
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e9f196a1595958c86ff7a99d7b62ebf9",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92752170208357,
+          43.24065723248276
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92750159552207,
+            43.240791498937796
+          ],
+          [
+            76.92754180855644,
+            43.2405229660242
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "5cf489f6ed46698d7642b6726e733d61",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92759375043292,
+          43.24066821792201
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92761218136678,
+            43.24053517209185
+          ],
+          [
+            76.92757531941857,
+            43.240801263749205
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "828ef494faaa7cbf192fa861f30e187d",
+      "type": "Feature",
+      "properties": {
+        "type": "bike",
+        "labelPos": [
+          76.94442087462221,
+          43.24247867384035
+        ],
+        "arrow": true
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94459848222465,
+            43.242489658812104
+          ],
+          [
+            76.94424326708383,
+            43.24246768859385
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "d784a46d749185c1fa0f86828a5544b1",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94442590124333,
+          43.24243961567014
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94424326708383,
+            43.242426189272095
+          ],
+          [
+            76.94460853548333,
+            43.24245304177765
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e3652f15daf76a40e31d479376fadb34",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94477608981975,
+          43.24271180157859
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94478949413985,
+            43.24259950978245
+          ],
+          [
+            76.94476268545026,
+            43.242824093373144
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ee8125bd9f4202ab898311e1431d0480",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94470236592352,
+          43.242717904390936
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94468896155371,
+            43.24283141673712
+          ],
+          [
+            76.94471577024336,
+            43.24260439204318
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "173dce3e7f75cf5e892b155ce6912c0f",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94502407014157,
+          43.24248721780292
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94485316477778,
+            43.242475012000625
+          ],
+          [
+            76.94519497557383,
+            43.24249942335078
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "574ec9ca1f5795904603808453d915ee",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9450093240312,
+          43.24251705848674
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94517520283648,
+            43.24253048460031
+          ],
+          [
+            76.94484344529906,
+            43.24250363213352
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "eb6e8372f8839c39ceee6aa9a9e435f7",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93433261629205,
+          43.2416616598288
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93408243647639,
+            43.24164557878768
+          ],
+          [
+            76.9345827962398,
+            43.24167774032472
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "af7583cb8f23c521320dcfd81d3c7671",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93434181410537,
+          43.24171526234799
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9345827962398,
+            43.2417259825981
+          ],
+          [
+            76.93410083205572,
+            43.24170454159207
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "aaf41241de9e3ed1b57fa1aecd55e39c",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93411186947324,
+          43.24199667434084
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9341339440985,
+            43.24180370617998
+          ],
+          [
+            76.93408979470814,
+            43.242189642497436
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "d72341ed54495fe5741a1876184b8d1a",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9340382871534,
+          43.24200337464454
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9340162123907,
+            43.242189642497436
+          ],
+          [
+            76.93406036178112,
+            43.24181710678741
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "c047159b5557bd269ba203aae6219dae",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9350334878652,
+          43.24170856205559
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9347814684985,
+            43.24169114095986
+          ],
+          [
+            76.93528550737602,
+            43.2417259825981
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "3f97f0c347f01ad7f773c0449f772519",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93503532743382,
+          43.24175948443276
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93528918649196,
+            43.241774224832625
+          ],
+          [
+            76.9347814684985,
+            43.24174474347157
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "19c2c09a6661dfa9e0b06f9934c63308",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93371820394749,
+          43.24161609754722
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93351217351147,
+            43.24160001658214
+          ],
+          [
+            76.93392423449228,
+            43.24163217814254
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ba5eb40d2b7b8b95309b17ea02bf9b5f",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9337145248423,
+          43.2416683600894
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93393527183991,
+            43.241680420451985
+          ],
+          [
+            76.93349377793209,
+            43.24165629930238
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "bfc0242da0f3c54aabfc09ed5c6f7859",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95178966412765,
+          43.242885578824044
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95143471894795,
+            43.24286264131851
+          ],
+          [
+            76.95214460957459,
+            43.242908515232216
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e48ba5037e6e5484d00a2bed0ce87512",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95178300080657,
+          43.24294981373229
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95214855358853,
+            43.242974823695334
+          ],
+          [
+            76.95141744832478,
+            43.2429248026053
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "02771a9c52d27d8be6a83f1879835f8b",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9516355682094,
+          43.24326759301707
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95161133259353,
+            43.243475032334175
+          ],
+          [
+            76.95165980366022,
+            43.24306015369484
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "10c0cb7ea2c0bc599d48531b6677faba",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95169615705949,
+          43.243274949006526
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95172443175102,
+            43.243063096106454
+          ],
+          [
+            76.95166788217131,
+            43.24348680189965
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e3d0c12d31d3bebca9683865682cd627",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9526373034464,
+          43.242946871027236
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95237879115734,
+            43.24293068744146
+          ],
+          [
+            76.95289581587275,
+            43.24296305403095
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "eaf6963350a1a10f9ac9e659d3c58ac2",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.952643362314,
+          43.243008661779356
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95291197289492,
+            43.243027787157615
+          ],
+          [
+            76.95237475190174,
+            43.24298953577264
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "9616acb4e413b77ed663370b21b78186",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95100746382855,
+          43.2428482998919
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95078732445182,
+            43.242833587571226
+          ],
+          [
+            76.95122760331157,
+            43.24286301179046
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "9d6877d4ad9fe95a223212cf2876e10f",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95100948346578,
+          43.24289832105718
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95123568182271,
+            43.24291009051237
+          ],
+          [
+            76.95078328519628,
+            43.24288655115632
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "4a7218a3e619432227d9be86a0bec37b",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92592254034652,
+          43.253480970376074
+        ],
+        "morning": 20
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9259446909997,
+            43.2533429435332
+          ],
+          [
+            76.92590038959293,
+            43.25361899721469
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "b49edc46d94556694708c7894097c192",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92586605827192,
+          43.25348106417545
+        ],
+        "morning": 4
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92584183388237,
+            43.25362221051634
+          ],
+          [
+            76.92589028254918,
+            43.253339917829436
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "99becea041241fbaa59a096f3febf9da",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92585156266266,
+          43.25389089855941
+        ],
+        "morning": 24
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92586961448046,
+            43.25374251836786
+          ],
+          [
+            76.92583351075689,
+            43.25403927874811
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ac7a0a8e930e905e7954b46ff6e678b8",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9258082543504,
+          43.25389304996102
+        ],
+        "morning": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92579232666833,
+            43.254041179314044
+          ],
+          [
+            76.92582418195502,
+            43.25374492060581
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f2ed1c0e231731611c8c509cda0ac936",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9259383868334,
+          43.25312421054612
+        ],
+        "morning": 20
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9259609613751,
+            43.25298382256429
+          ],
+          [
+            76.92591581218761,
+            43.253264598523515
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "54e9ae4fa6c9744cc7ad1e3453edaa1c",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92587760906852,
+          43.2531204162783
+        ],
+        "morning": 12
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92586024395672,
+            43.25325953950872
+          ],
+          [
+            76.92589497410097,
+            43.25298129304525
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "68fb32e448ff4b8a616b040ea47008fc",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92476608674542,
+          43.26221118216776
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92479047724458,
+            43.262043252244354
+          ],
+          [
+            76.92474169611171,
+            43.262379112085995
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "6ab9364f8efaeafa1191d6563e369100",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92469956703454,
+          43.26222087040511
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92467074173453,
+            43.26239848855863
+          ],
+          [
+            76.92472839216634,
+            43.262043252244354
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "5a81ea7e6a12c5420e962379da7ecd54",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92506764273178,
+          43.26250828863038
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92486586626825,
+            43.26249537083001
+          ],
+          [
+            76.92526941928094,
+            43.262521206076116
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "548049f83f17d3900dca6d552c6ebab8",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.925076512034,
+          43.262561573803254
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92527828857783,
+            43.26257287653621
+          ],
+          [
+            76.92487473556508,
+            43.26255027071565
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "92981a7be175398dfe467c4a81347f9f",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94512777205345,
+          43.25307145223007
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94501979069986,
+            43.253062276750995
+          ],
+          [
+            76.94523575343959,
+            43.253080627607574
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "d88d6de0b70a7643d6070492f2e9fe22",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9451221168084,
+          43.25309871739932
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94523583593082,
+            43.2531061903189
+          ],
+          [
+            76.94500839771393,
+            43.253091244367084
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "34333254f6828dd7d803b69e80993909",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94551372095599,
+          43.25309498092947
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94538290124501,
+            43.253087507878604
+          ],
+          [
+            76.94564454069905,
+            43.253102453831275
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "0388f017e4462c586648ceb896584510",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9455205611991,
+          43.25311926809782
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94565138094617,
+            43.253128609240264
+          ],
+          [
+            76.94538974149219,
+            43.2531099268063
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "61a755024e0fe35a7b52ea5312167621",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94477582929295,
+          43.25304516105413
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94465612498499,
+            43.2530364425119
+          ],
+          [
+            76.94489553363519,
+            43.253053879471565
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "016cc79c5ebea60fd955a2d77eb09aa2",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94478266954401,
+          43.25307131648953
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94490408394324,
+            43.253077543908034
+          ],
+          [
+            76.94466125516959,
+            43.253065088942634
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "b0f0afc4a047737fbbd88c21c314bcc0",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95036777558134,
+          43.25342764989061
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95028654765576,
+            43.25342017692634
+          ],
+          [
+            76.95044900352684,
+            43.25343512279741
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e57273a780ed20429b5b313936d34570",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95037119570443,
+          43.253445086740165
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95045584377391,
+            43.25345255964234
+          ],
+          [
+            76.95028654765576,
+            43.25343761377559
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ff4d6e1a74a1e9cac988ba20a8a54e16",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95051313085284,
+          43.253517947717526
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95052082612136,
+            43.25344010475365
+          ],
+          [
+            76.95050543556465,
+            43.25359579068089
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "90e9f9a24a1871531c1d105664351f4f",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9504814947122,
+          43.25351794771102
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95047294439166,
+            43.25360077262397
+          ],
+          [
+            76.95049004500947,
+            43.25343512279741
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "6e8f2303773a2146bf5d0197c7a130c9",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95053536165604,
+          43.253283795617214
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95054989717238,
+            43.253189760947606
+          ],
+          [
+            76.95052082609482,
+            43.25337783028496
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "d1618f7bab7b6dd12b64d39f4e1274df",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95049774028575,
+          43.2532875320949
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95048149467317,
+            43.25338530322614
+          ],
+          [
+            76.95051398584616,
+            43.25318976096136
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "bc85cbc6355eaaf4316f05b9b7935186",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95011041124637,
+          43.253410213073515
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9500026773714,
+            43.253400249105795
+          ],
+          [
+            76.95021814515661,
+            43.253420176940125
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "a8e19eafc33c93a7794117d1ccd2a51a",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95010784615428,
+          43.25343761383831
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9502147250331,
+            43.25344757770097
+          ],
+          [
+            76.95000096731042,
+            43.25342764987613
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "fd19e7efe444db19c7f97838b4d05153",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95048662400495,
+          43.25373341669329
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95049517430238,
+            43.253651837555736
+          ],
+          [
+            76.95047807368462,
+            43.2538149958302
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "0af11142d490be386a1490d6bc491c87",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95044900264759,
+          43.25373715314062
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95043874226297,
+            43.25381997775531
+          ],
+          [
+            76.95045926300429,
+            43.253654328525016
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "7eaf86bb294f80b53091f329c1547c41",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9330402865258,
+          43.25220673935219
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93287193048832,
+            43.25219813423061
+          ],
+          [
+            76.93320864261085,
+            43.2522153442269
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "5317631a22163e57b022f262de7ec699",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93304650287911,
+          43.252241670550134
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93322092921136,
+            43.25225225728275
+          ],
+          [
+            76.93287207660751,
+            43.252231083552516
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "2d32dad1aedef5a3957da4c173575b6c",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93351575234549,
+          43.25223978447789
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9333323655548,
+            43.25222536497921
+          ],
+          [
+            76.933699139223,
+            43.252254203683606
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "6aafc857cb28d100280d29cc28381095",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93351575222127,
+          43.25227089988365
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93369497134046,
+            43.25228304237359
+          ],
+          [
+            76.93333653317353,
+            43.252258757113935
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "2fee97d5b4ada83e663d3fbe1b236754",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93259777595884,
+          43.25218134802931
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93245085812316,
+            43.25217072313956
+          ],
+          [
+            76.93274469384579,
+            43.252191972731055
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "b97e941b8f3da3149e9d2c3cad179091",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93260402778549,
+          43.25221246348693
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93274469384579,
+            43.25222232927746
+          ],
+          [
+            76.93246336177077,
+            43.25220259752405
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "9f40e032e7cf83b78505711b117a81f3",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93297080149475,
+          43.25206295716196
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93298226315301,
+            43.251965815981805
+          ],
+          [
+            76.93295933979994,
+            43.252160098340994
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "8a5fc731a1d699c5ed68cb5c92059e95",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93293537449529,
+          43.252065233909725
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93292182885511,
+            43.252161616169474
+          ],
+          [
+            76.9329489200926,
+            43.25196885164837
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e047480c7fa26d35ee4a132381451489",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94956680197888,
+          43.26020671741534
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94937492431944,
+            43.26019094075335
+          ],
+          [
+            76.94975867973773,
+            43.26022249375663
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f7e0c026de583a4edda4a298908c1bac",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95006661246587,
+          43.260250666223484
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94987628220338,
+            43.26023601646736
+          ],
+          [
+            76.95025694281998,
+            43.26026531566407
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "c873f6565de3e91d89c3198e07f09dad",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94908556032287,
+          43.26018305261784
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94891998846282,
+            43.26017065667065
+          ],
+          [
+            76.94925113225037,
+            43.26019544832624
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f89514df21f9525f884ca9ecadb033ab",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95007280206056,
+          43.26040843093316
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95026932202688,
+            43.260425334103815
+          ],
+          [
+            76.94987628220338,
+            43.260391527426094
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "549f5c3b1795f6138dfaecf861a45b10",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94957918119293,
+          43.26036898978937
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94977105894475,
+            43.26038251230895
+          ],
+          [
+            76.94938730352635,
+            43.26035546694911
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "82115655ea614d20afc6869c1826eeb3",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94908091809556,
+          43.26033518308462
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94927589066418,
+            43.26035321316863
+          ],
+          [
+            76.94888594564242,
+            43.2603171526695
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ebf0a85d37d609ee20912964113d6eac",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94966583571384,
+          43.260299122281666
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94968749927943,
+            43.26016840289185
+          ],
+          [
+            76.94964417205523,
+            43.26042984166739
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ccc951caef988a13c1bd990da623f951",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94961786629945,
+          43.26030024916128
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94959156042586,
+            43.2604366030001
+          ],
+          [
+            76.94964417205523,
+            43.260163895316424
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e5ea2ecc3b3ac06b978461a8a98faef5",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9496874993196,
+          43.25993288151266
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94970606808977,
+            43.259801034438766
+          ],
+          [
+            76.94966893046899,
+            43.26006472858353
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "558b6636f296c6be14556f549db80f1c",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94963334029127,
+          43.25993513531881
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94961322403799,
+            43.260062474792306
+          ],
+          [
+            76.9496534564604,
+            43.259807795841795
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "85bd25ccfc2ba49dbc4235550b34ad3e",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94960239226026,
+          43.26066198020379
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94961631883967,
+            43.2605380229015
+          ],
+          [
+            76.94958846562412,
+            43.26078593750438
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "101f5a1c39fc6fd0ee6872c958954d33",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94956370723392,
+          43.26066423398169
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94955132800203,
+            43.26078368373982
+          ],
+          [
+            76.94957608641727,
+            43.26054478422222
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "adb55a10e76ee793b9c1b932a87c7132",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95101943646826,
+          43.26235401301575
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95088638856572,
+            43.262345292966074
+          ],
+          [
+            76.95115248440891,
+            43.26236273291124
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e335a0b0f2db7fe3aa2a07cdcce4588a",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95103540222239,
+          43.262326884212214
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95117377207623,
+            43.26233366633275
+          ],
+          [
+            76.95089703239938,
+            43.2623201019249
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "763713aeb82bb7cffe164b559ab7ba70",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95138930969146,
+          43.26238404844948
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95127488849698,
+            43.26237435953857
+          ],
+          [
+            76.95150373092235,
+            43.262393737246356
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "27d11432a351e34d7843166f882eb654",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95139995352382,
+          43.26235691966122
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95152235763129,
+            43.26236660845396
+          ],
+          [
+            76.95127754945531,
+            43.26234723073799
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "3c8a7a488437ecb0114412d96db542fa",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95063492797868,
+          43.26233366639915
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95051119342787,
+            43.26232591524288
+          ],
+          [
+            76.95075866256099,
+            43.26234141742205
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "02ad1d26c52d846408d9463f191c2734",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95064557181308,
+          43.26230556870567
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95077995022825,
+            43.26231235083333
+          ],
+          [
+            76.95051119342787,
+            43.2622987864207
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "6c67249c6b6e8ee91628917146703193",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95110857860969,
+          43.262457683593
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95112055290804,
+            43.26238404839302
+          ],
+          [
+            76.95109660428238,
+            43.26253131879173
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "50b3ab6645d684fb560073ea5ace0d15",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9510633423164,
+          43.26246446578081
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95105136798827,
+            43.26253906985545
+          ],
+          [
+            76.95107531661517,
+            43.26238986170492
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "a6097b2316003d68315bb2ed61e98165",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95107132464467,
+          43.26263983313287
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95108063798904,
+            43.26257394920381
+          ],
+          [
+            76.95106201128016,
+            43.26270571706118
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "2847fb4092d8c688b47132ea26d7b931",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95104059837675,
+          43.262641692569815
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95103174883383,
+            43.262710279450516
+          ],
+          [
+            76.95104944789972,
+            43.26257310568843
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "6d9c79784de8903a6623f4df94f154fe",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90447485395345,
+          43.235656104142876
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9042879780556,
+            43.235642489284544
+          ],
+          [
+            76.90466172993479,
+            43.23566971869704
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f09ca20414305de28c23848ff22c9964",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90447711813314,
+          43.2356819245726
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90466275868943,
+            43.23569544911686
+          ],
+          [
+            76.90429147765923,
+            43.23566839972818
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "21dff8f18eb3cc13fb5e0703e172842b",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90493314810284,
+          43.23568604075591
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90476607167102,
+            43.235674280031105
+          ],
+          [
+            76.90510022459915,
+            43.23569780123756
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "7812fe5ed5f801b6c38b66c20896a70a",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90491539119402,
+          43.23570662179031
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90506955355704,
+            43.23571544213604
+          ],
+          [
+            76.90476122887566,
+            43.23569780123756
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e7e71fa4029952f77116c7466c73ed66",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90407540357533,
+          43.23562503310188
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90393474876055,
+            43.235619300256644
+          ],
+          [
+            76.90421605841658,
+            43.2356307657748
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ad005c62357bff04ed3c0114654660de",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90408228877637,
+          43.23565154709696
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90421409121711,
+            43.23565799637248
+          ],
+          [
+            76.9039504863635,
+            43.23564509767013
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f904ef78b5ded22dc07234ea9d4b21e1",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92252851947808,
+          43.22672257110678
+        ],
+        "morning": 132
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92243623336185,
+            43.22672350501708
+          ],
+          [
+            76.92262080559146,
+            43.226721637122324
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "4ca2a589a17df8bbe3aa67be62db42a4",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92253184883972,
+          43.226733878596384
+        ],
+        "morning": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9226255462832,
+            43.22673274540361
+          ],
+          [
+            76.92243815139278,
+            43.22673501171272
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "315d644e38648d07ab4c0fd73c6a0ae8",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92283840998692,
+          43.226672304563394
+        ],
+        "morning": 0
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9228431105621,
+            43.226699215845514
+          ],
+          [
+            76.9228337094159,
+            43.226645393281075
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e17fc785f265d8b4002d44e8af62f712",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92286258436447,
+          43.22666839019453
+        ],
+        "morning": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92285788379348,
+            43.226640500318354
+          ],
+          [
+            76.92286728493974,
+            43.22669628007051
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "338ba80835df80da3cbb263aa8060a0c",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9222716551309,
+          43.2266674116023
+        ],
+        "id": "338ba80835df80da3cbb263aa8060a0c",
+        "color": "#00e685",
+        "orientation": "hor",
+        "morning": 0
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92227232664078,
+            43.22663952172576
+          ],
+          [
+            76.92227098362042,
+            43.22669530147883
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "4558d3172c1ccb728d75a1f549f9c566",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9222488237749,
+          43.22666887949027
+        ],
+        "id": "4558d3172c1ccb728d75a1f549f9c566",
+        "color": "#00e685",
+        "orientation": "hor",
+        "morning": 0
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92224815226439,
+            43.22669725866217
+          ],
+          [
+            76.9222494952848,
+            43.226640500318354
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "2be05216205bb9058f6aac8d2ac38418",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92308082528271,
+          43.22669236574991
+        ],
+        "id": "2be05216205bb9058f6aac8d2ac38418",
+        "color": "#00e685",
+        "orientation": "vert",
+        "morning": 8
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9231842378943,
+            43.22668942992786
+          ],
+          [
+            76.92297741266117,
+            43.22669530147883
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "2ad8651a23b42305ffe63774235fc6f4",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92308686888093,
+          43.2266737725053
+        ],
+        "id": "2ad8651a23b42305ffe63774235fc6f4",
+        "color": "#00e685",
+        "orientation": "vert",
+        "morning": 140
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92298144172474,
+            43.226678665417126
+          ],
+          [
+            76.9231922960202,
+            43.22666887949666
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "0c1cd634e9614148110f85b45fbd9614",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92209101879153,
+          43.226689429959144
+        ],
+        "morning": 140
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92200506546425,
+            43.226677686825184
+          ],
+          [
+            76.92217697215193,
+            43.22670117302877
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "4ffbf83d50dc10af784f0beaf5fd1b50",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92209034727638,
+          43.22670508742783
+        ],
+        "morning": 12
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92217965819384,
+            43.226719766266484
+          ],
+          [
+            76.92200103640192,
+            43.22669040851969
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "1901a4ef856aa42e3c5b83e525ac07a5",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9342988416282,
+          43.23111346641638
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93420677967504,
+            43.231027920001566
+          ],
+          [
+            76.93439090383981,
+            43.23119901275737
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "b3482c486320be56e9ad3db3e6ba6ad7",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9343321974645,
+          43.23110277312385
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93442292543335,
+            43.23118345889043
+          ],
+          [
+            76.93424146973587,
+            43.23102208728557
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "80062a483e4ed913fdfe34d7eea4f4ac",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93433766638601,
+          43.231312150917375
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93444986530233,
+            43.231237792872975
+          ],
+          [
+            76.93422546719592,
+            43.231386508852125
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "20c8c896e9839dff2c4319f4c1d363a4",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93431040898399,
+          43.23129829538567
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93420264704969,
+            43.231372653341566
+          ],
+          [
+            76.93441817065536,
+            43.23122393732862
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "684153750d72e8da231e355d37318111",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93428124969958,
+          43.23145116784135
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9342064503931,
+            43.23140036433753
+          ],
+          [
+            76.93435604913077,
+            43.23150197129644
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "3795bdf1f47444765cf2833c5a6950e2",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93426540237934,
+          43.23146548518211
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93433703234285,
+            43.23151582677761
+          ],
+          [
+            76.93419377253417,
+            43.23141514354194
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f595707e95913f80f58c890aba5cf11f",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93425272490856,
+          43.23160403985846
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93433576481618,
+            43.231552774627744
+          ],
+          [
+            76.93416968486127,
+            43.23165530502911
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "4e7d2521490ea22e89192cd04c442c73",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93422483361832,
+          43.23158879884977
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93414306135793,
+            43.23164052588291
+          ],
+          [
+            76.93430660573989,
+            43.23153707175837
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "4b1b42f71961abc674817be2f4f065c1",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91337966827602,
+          43.22611954951282
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91338558652404,
+            43.22607786324227
+          ],
+          [
+            76.9133737500199,
+            43.22616123578305
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f155c543d4af345bd2124b4723b99c4e",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91334810426746,
+          43.22612314315529
+        ],
+        "morning": 4
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.913340213259,
+            43.22616698560924
+          ],
+          [
+            76.91335599526457,
+            43.2260793007008
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "047fc11d9a610bfcb7e488195350dfee",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91360850732856,
+          43.22619429738914
+        ],
+        "morning": 128
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91344674179646,
+            43.22618423508442
+          ],
+          [
+            76.91377027291406,
+            43.22620435946595
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "2925d9d6046f2d2a858a3840e41b88f2",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91361146645053,
+          43.22621873413199
+        ],
+        "morning": 16
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91377224566384,
+            43.22623023366174
+          ],
+          [
+            76.91345068729788,
+            43.226207234377085
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "6503e80caaa3e7a90544f9e4190b7665",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91312123790702,
+          43.22615979840364
+        ],
+        "morning": 132
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91298709088011,
+            43.22614973612846
+          ],
+          [
+            76.91325538497824,
+            43.22616986052208
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f9a416085272e7f314ce3b72b2045fc7",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.913123210653,
+          43.22618495388959
+        ],
+        "morning": 16
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91325735772807,
+            43.2261971721876
+          ],
+          [
+            76.9129890636317,
+            43.22617273543483
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "5e14d0e344419deeaf494ef307528ecc",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95147220939151,
+          43.24674636334707
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95148261706089,
+            43.246681049623675
+          ],
+          [
+            76.95146180169979,
+            43.24681167706953
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "4b39ec298457899bc51415ae0c5853fa",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95144018576141,
+          43.24674927913645
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95142817688605,
+            43.24681634233025
+          ],
+          [
+            76.95145219461034,
+            43.24668221594138
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "0098d9d07c6e59956de93d9229701446",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9512647363423,
+          43.24662371821423
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95115108280379,
+            43.24661606159947
+          ],
+          [
+            76.9513783899094,
+            43.246631374716486
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "da73571a6db8517b692b3c1e9942300a",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95126539329976,
+          43.24664620935098
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95137970382268,
+            43.246653387314836
+          ],
+          [
+            76.95115108280379,
+            43.246639031273304
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "46f4fb4de887a5f71359210344161d8e",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95123308907714,
+          43.24679771086999
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95114446521296,
+            43.24679050733454
+          ],
+          [
+            76.95132171296228,
+            43.24680491433705
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "a76a0731d20587eed198ebdaccad3364",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95123156763867,
+          43.24681350315702
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95131790936352,
+            43.24681987545057
+          ],
+          [
+            76.9511452259319,
+            43.246807130798544
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "c4f5b352b080fa1783bafd04a9842afb",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95138523198389,
+          43.246928481947634
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95139550169341,
+            43.24686697526258
+          ],
+          [
+            76.95137496225362,
+            43.24698998863178
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "8ac227fec77b6d04f42362525f313e97",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95135860678582,
+          43.24692959017707
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95134757633531,
+            43.24699054274575
+          ],
+          [
+            76.95136963721427,
+            43.24686863760732
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "d24843800e0696742f40b010b89dfea8",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95139273293131,
+          43.24648658368902
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95140874472355,
+            43.24639736009652
+          ],
+          [
+            76.95137672109217,
+            43.2465758072793
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ba9ccd22eb4b1e6e4cf9050ea7a8db03",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95135430457093,
+          43.24648366788768
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95133989391536,
+            43.246571142000164
+          ],
+          [
+            76.95136871518508,
+            43.24639619377339
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "7ac387c79aa89b27c3f9f2d5fa9eebd1",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95087729155769,
+          43.24660231139447
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95069800984055,
+            43.246589086858535
+          ],
+          [
+            76.95105657335267,
+            43.24661553565045
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "524fda0d3060f21431cbb3d736085c75",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95088750381137,
+          43.24663289281161
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95107245907883,
+            43.246645290527624
+          ],
+          [
+            76.95070254861918,
+            43.24662049479764
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f815591db969a992ce7617120b16b466",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93383121058748,
+          43.245452947464884
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93364052012925,
+            43.24544008584411
+          ],
+          [
+            76.93402190112624,
+            43.24546580876893
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "35eb087a71c928899affbae6eae49f51",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93383938028406,
+          43.245476367309955
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93402952148853,
+            43.24548977072547
+          ],
+          [
+            76.93364923916329,
+            43.24546296357954
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "652412f45c939dde679a8eb008b3440a",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93424726376729,
+          43.24548530294607
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93411334716251,
+            43.24547636715397
+          ],
+          [
+            76.93438118041138,
+            43.24549423858198
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "97dd4a9c3514eefe06f4adb3fc0f5ff9",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93425339735543,
+          43.245511365442155
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93438935852771,
+            43.245519556429315
+          ],
+          [
+            76.93411743621971,
+            43.24550317429399
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "07f09800def93d665ad8c8038816ebd6",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93371568636724,
+          43.24547934559127
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93372693125048,
+            43.24535126700985
+          ],
+          [
+            76.9337044414367,
+            43.24560742417157
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "69b7d00e98123fab2a9c8689c1aef492",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93368297391446,
+          43.24548306880743
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93366968445116,
+            43.245610402736816
+          ],
+          [
+            76.93369626332219,
+            43.24535573487654
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "5cfd5b17acc05c81e5bdd6eb001d1af8",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93368248284781,
+          43.24576729012757
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9336896386867,
+            43.24566750844892
+          ],
+          [
+            76.93367532698551,
+            43.245867071805776
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "73547602cc35e0a3ffb4cd0bbc372036",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93364568133286,
+          43.24577473652096
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93363852547049,
+            43.24587451818695
+          ],
+          [
+            76.93365283717179,
+            43.245674954854536
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e14e8f1cb93eb74e196d67183a0eecaa",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93340272821072,
+          43.245425117673065
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93324666761919,
+            43.24541505499914
+          ],
+          [
+            76.93355878885382,
+            43.24543518013482
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "2af738255dfb2466202d39ff38e04ae3",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93340340464923,
+          43.245447839181864
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93356287791102,
+            43.245459008720445
+          ],
+          [
+            76.93324393144593,
+            43.245436669421736
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "a856fe9aeed59f4a0a62733055c1e131",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93374872137997,
+          43.24521545673096
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93375859227052,
+            43.24512438028506
+          ],
+          [
+            76.93373885045992,
+            43.245306533176006
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ee8e9ff872b81e034bb2da3356e0235c",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.93371927614274,
+          43.24521924455888
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.93370975115818,
+            43.24530944189422
+          ],
+          [
+            76.93372880109911,
+            43.24512904722275
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "10210e457246e1aa6ef81800e956521f",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92004746514338,
+          43.24457613112765
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92005583506551,
+            43.24448894465567
+          ],
+          [
+            76.9200390951973,
+            43.24466331759902
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "fe46fceee434792b02679bcc03295c68",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92000980045914,
+          43.24457735051817
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9200005935246,
+            43.244665756377884
+          ],
+          [
+            76.92001900736693,
+            43.24448894465772
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "95afbd2277d4039e25c6e07997b4babb",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92033790161692,
+          43.24449991930763
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92017468804261,
+            43.24448650587178
+          ],
+          [
+            76.92050111526311,
+            43.244513332511445
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "911f4e3799a82b20e29dcacaab93c9a4",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92034041259119,
+          43.24452491685176
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92050278924961,
+            43.24454015913983
+          ],
+          [
+            76.92017803601402,
+            43.24450967433404
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "4c0704ed52ffa1179f4f5b5c5527973d",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91979887821536,
+          43.24444016900649
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9196574264451,
+            43.24442919437419
+          ],
+          [
+            76.91994033003658,
+            43.24445114346449
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "72adbdd7751c5f9c399d7e7005f80244",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91980306318221,
+          43.24446882475218
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91994033003658,
+            43.24447918951347
+          ],
+          [
+            76.91966579637455,
+            43.244458459826774
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "d9ba64ae578a2e53594313de7b661709",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91991730603827,
+          43.244830810080394
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91993719391752,
+            43.24474388805464
+          ],
+          [
+            76.91989741810227,
+            43.24491773210269
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "932655e9b1c579c457f83783bb3edff3",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91988974547478,
+          43.244829424352474
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91987031464322,
+            43.24491382433902
+          ],
+          [
+            76.91990917625247,
+            43.24474502436263
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ad253e163c28b7b8fce170a597afeb34",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94258346280435,
+          43.246023960575364
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94243643497566,
+            43.246014589423
+          ],
+          [
+            76.94273049067829,
+            43.24603333153942
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "9e8581b7938e8ae095e63a1814be094b",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94258530065561,
+          43.24604671884859
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9427268149804,
+            43.246054751093965
+          ],
+          [
+            76.94244378636813,
+            43.24603868642879
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "14bcaf2c2d7d0e6ffe203443f767cb9c",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9429638973788,
+          43.246056089872056
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94284995080699,
+            43.24604939620605
+          ],
+          [
+            76.94307784397563,
+            43.246062783424975
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "23b8d6e7ef5a960200f33e3aba3b4e9a",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94296481630252,
+          43.24607884813941
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94307784397563,
+            43.24608554169106
+          ],
+          [
+            76.94285178865425,
+            43.24607215447651
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "405f5880876c82a67a29c68adb70f5cd",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94226092047097,
+          43.24600990393945
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94215708205974,
+            43.246005218362
+          ],
+          [
+            76.94236475889818,
+            43.246014589423
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "cd426688d190626d539f0fa45f24d801",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.94226919078903,
+          43.246036009031805
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.94237394813962,
+            43.24604002515102
+          ],
+          [
+            76.94216443345226,
+            43.246031992816995
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "b96be92952ee70018535b89e93d87955",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92683078806331,
+          43.24490485800876
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92662702466492,
+            43.244888742809934
+          ],
+          [
+            76.92703455156953,
+            43.24492097284593
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "dc678ba9399ca27043e5fcb3e033eb3c",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92682729498155,
+          43.24493708803493
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92702989411924,
+            43.24495150654923
+          ],
+          [
+            76.92662469593978,
+            43.24492266916312
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "522fe847d55e3de856d9fae7678d017d",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92700823056295,
+          43.2450807091536
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92702219643854,
+            43.24499932376605
+          ],
+          [
+            76.92699426465003,
+            43.24516209453947
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "61c148b22ca89915da6f4f17773c1c0b",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9269704405019,
+          43.24507652019447
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92695318849076,
+            43.24516209453947
+          ],
+          [
+            76.92698769246459,
+            43.244990945846894
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "346b26ed7604335e1168668a979f8e19",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92727933316813,
+          43.24496581218219
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92712735140435,
+            43.24495623731198
+          ],
+          [
+            76.92743131497969,
+            43.244975386851195
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "97df09c78d59e117968dec9be26b3254",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92727933316806,
+          43.24499693018149
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9274362441194,
+            43.2450065048387
+          ],
+          [
+            76.92712242226605,
+            43.24498735530983
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e91a782a0d931cfbf8a10472d4adbc63",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92636497787234,
+          43.244891009238536
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92622203286379,
+            43.24488083594437
+          ],
+          [
+            76.92650792292864,
+            43.24490118235471
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "7e7e0fbb1378c56c2abfead9a92e33e3",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92636579939716,
+          43.24492511938803
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92650956597572,
+            43.24493469407375
+          ],
+          [
+            76.92622203286379,
+            43.244915544522286
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "edb681dfadc536e99b72eba8f94d742b",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92702137493708,
+          43.24475217458986
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92703534080925,
+            43.24465582813383
+          ],
+          [
+            76.92700740902075,
+            43.24484852104419
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "9b8de670c5af5eb088c78aebbb3e4a39",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92698440639414,
+          43.244755166718605
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9269696189541,
+            43.24484971789266
+          ],
+          [
+            76.92699919378828,
+            43.24466061554264
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "19ac8e3cf46c90caabe7ae16cd1cdcd4",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92693922252357,
+          43.245323668044
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92695154535238,
+            43.24522911775071
+          ],
+          [
+            76.92692689965651,
+            43.24541821833597
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "9e0ae6045912e3a0460eb6213733d9f2",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.92691129073164,
+          43.24532845540746
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.92690061091503,
+            43.24541821833597
+          ],
+          [
+            76.92692197051679,
+            43.245238692477955
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e47e88b584bdefbf18661d1c1691a267",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90207623163285,
+          43.21923904928187
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90209255455181,
+            43.219114150113285
+          ],
+          [
+            76.902059908647,
+            43.21936394844812
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "668bde1cfca0d2a9dbefecf7a9bfae14",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90204261023287,
+          43.21924035726994
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90202628724677,
+            43.2193664459447
+          ],
+          [
+            76.90205893315147,
+            43.219114268592875
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f660ff8f17253a548a18fa398342c31e",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90204424894158,
+          43.21903208271688
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90189734239448,
+            43.219021376935814
+          ],
+          [
+            76.90219115554027,
+            43.21904278830999
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "530fcbd07113b3cf6704b51932bcd12c",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90203771975422,
+          43.21906538929393
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90218789094985,
+            43.219078473917534
+          ],
+          [
+            76.90188754862305,
+            43.219052304473905
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "779f8874a99cbfb7202180c1d61ad05e",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90248986552264,
+          43.21906895788801
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90231520997838,
+            43.219052304473905
+          ],
+          [
+            76.90266452116231,
+            43.219085611036434
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "c1237f006cffbd7b82dc9c4b1b1e08e6",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90247843945069,
+          43.219102264433104
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90264819820993,
+            43.21912129661834
+          ],
+          [
+            76.90230868079743,
+            43.219083231996876
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "3a1946c1cfa6ba61b3390637dcc45fd0",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9015725156149,
+          43.219004723743254
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90141744758995,
+            43.21899520746766
+          ],
+          [
+            76.90172758368823,
+            43.21901423980941
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "9ad0092e76e929f3afba21ae645c6559",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90158067709295,
+          43.21903921986362
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90174390664055,
+            43.21904754639212
+          ],
+          [
+            76.90141744758995,
+            43.21903089310305
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "a85f2e12a500f57841a121f15b2afb88",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.90204358571256,
+          43.21950454796343
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90205664405511,
+            43.21941414515612
+          ],
+          [
+            76.9020305273313,
+            43.21959495076925
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e7ce26d51aeceae0a48912c63f7a205e",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9020118030724,
+          43.2195014533443
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.90199935761257,
+            43.219589417883356
+          ],
+          [
+            76.90202424849633,
+            43.219413488803866
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "72e0b9d92e4ee4fcc863ca00abd19258",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9577594337128,
+          43.26280817725006
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95764687667054,
+            43.26280089132388
+          ],
+          [
+            76.957871990782,
+            43.26281546306592
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "1bab6e59d688a0a7e119393d8bd92cfd",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95776193498405,
+          43.26283732072741
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95787449204988,
+            43.26284278507288
+          ],
+          [
+            76.95764937793842,
+            43.26283185627156
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "33a6f05602bf426dd547d0e3e42a9770",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95816213785014,
+          43.262842785135646
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95804207700093,
+            43.262837320672475
+          ],
+          [
+            76.9582821987209,
+            43.26284824947325
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "379df1e14c12c7b26b650d753f971506",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9581596365784,
+          43.26287375006472
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9582821987209,
+            43.26288103586248
+          ],
+          [
+            76.95803707446521,
+            43.262866464136096
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e9281968e198fbf8982b06790506eceb",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.95742051190696,
+          43.262783587444154
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95729419789427,
+            43.26277539076645
+          ],
+          [
+            76.95754682595367,
+            43.26279178398289
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "c5154b3e4db01e82eb046168ed078741",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9574167600004,
+          43.262816373875395
+        ]
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.95754932722161,
+            43.26282639187016
+          ],
+          [
+            76.95728419282278,
+            43.26280635572755
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "80de342c43a21ca2678214181687f6dc",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91811980755033,
+          43.258083414301616
+        ],
+        "morning": 12
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91812910957276,
+            43.258006185783756
+          ],
+          [
+            76.91811050550427,
+            43.258160642818694
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "f4d21b1dead34377e2103a6ff4c143a8",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91809190145352,
+          43.25808612407376
+        ],
+        "morning": 32
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91808073900006,
+            43.25816470747213
+          ],
+          [
+            76.91810306387816,
+            43.2580075406743
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "15bdcf2c94a4f5bd58a02ade9770bbf3",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9180956222642,
+          43.258282582260975
+        ],
+        "morning": 16
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.9181049242855,
+            43.25820941864248
+          ],
+          [
+            76.91808632022054,
+            43.2583557458787
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "eeec2d9351ae034996c7844130943619",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.91806399535274,
+          43.25828529202452
+        ],
+        "morning": 20
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91805469330905,
+            43.25835845563901
+          ],
+          [
+            76.91807329737406,
+            43.25821212840927
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "110544505260cec83de243a73860d671",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9181405945558,
+          43.257904640532125
+        ],
+        "morning": 16
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91815082677988,
+            43.25783757348245
+          ],
+          [
+            76.91813036230917,
+            43.25797170758088
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "466e83d614fcf49225c560f5f7d1d448",
+      "type": "Feature",
+      "properties": {
+        "arrow": true,
+        "type": "bike",
+        "labelPos": [
+          76.9181142637339,
+          43.25790352053507
+        ],
+        "morning": 32
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            76.91810310128182,
+            43.257969910141014
+          ],
+          [
+            76.91812542616162,
+            43.25783713092807
           ]
         ],
         "type": "LineString"
