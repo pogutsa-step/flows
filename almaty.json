@@ -2743,7 +2743,8 @@
           76.92592254034652,
           43.253480970376074
         ],
-        "morning": 20
+        "morning": 20,
+        "day": 48
       },
       "geometry": {
         "coordinates": [
@@ -2769,7 +2770,8 @@
           76.92586605827192,
           43.25348106417545
         ],
-        "morning": 4
+        "morning": 4,
+        "day": 12
       },
       "geometry": {
         "coordinates": [
@@ -2795,7 +2797,8 @@
           76.92585156266266,
           43.25389089855941
         ],
-        "morning": 24
+        "morning": 24,
+        "day": 76
       },
       "geometry": {
         "coordinates": [
@@ -2821,7 +2824,8 @@
           76.9258082543504,
           43.25389304996102
         ],
-        "morning": 8
+        "morning": 8,
+        "day": 12
       },
       "geometry": {
         "coordinates": [
@@ -2847,7 +2851,8 @@
           76.9259383868334,
           43.25312421054612
         ],
-        "morning": 20
+        "morning": 20,
+        "day": 56
       },
       "geometry": {
         "coordinates": [
@@ -2873,7 +2878,8 @@
           76.92587760906852,
           43.2531204162783
         ],
-        "morning": 12
+        "morning": 12,
+        "day": 12
       },
       "geometry": {
         "coordinates": [
