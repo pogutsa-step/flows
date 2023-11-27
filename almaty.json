@@ -5935,7 +5935,8 @@
           43.24490485800876
         ],
         "morning": 68,
-        "day": 40
+        "day": 40,
+        "night": 44
       },
       "geometry": {
         "coordinates": [
@@ -5962,7 +5963,8 @@
           43.24493708803493
         ],
         "morning": 8,
-        "day": 44
+        "day": 44,
+        "night": 64
       },
       "geometry": {
         "coordinates": [
@@ -5989,7 +5991,8 @@
           43.24508427945675
         ],
         "morning": 32,
-        "day": 24
+        "day": 24,
+        "night": 52
       },
       "geometry": {
         "coordinates": [
@@ -6016,7 +6019,8 @@
           43.24508901624927
         ],
         "morning": 20,
-        "day": 40
+        "day": 40,
+        "night": 40
       },
       "geometry": {
         "coordinates": [
@@ -6043,7 +6047,8 @@
           43.24496581218219
         ],
         "morning": 60,
-        "day": 44
+        "day": 44,
+        "night": 52
       },
       "geometry": {
         "coordinates": [
@@ -6069,7 +6074,8 @@
           76.92727933316806,
           43.24499693018149
         ],
-        "day": 44
+        "day": 44,
+        "night": 60
       },
       "geometry": {
         "coordinates": [
@@ -6096,7 +6102,8 @@
           43.244891009238536
         ],
         "morning": 92,
-        "day": 44
+        "day": 44,
+        "night": 56
       },
       "geometry": {
         "coordinates": [
@@ -6123,7 +6130,8 @@
           43.24492511938803
         ],
         "morning": 8,
-        "day": 44
+        "day": 44,
+        "night": 48
       },
       "geometry": {
         "coordinates": [
@@ -6150,7 +6158,8 @@
           43.24475217458986
         ],
         "morning": 36,
-        "day": 24
+        "day": 24,
+        "night": 52
       },
       "geometry": {
         "coordinates": [
@@ -6177,7 +6186,8 @@
           43.244755166718605
         ],
         "morning": 28,
-        "day": 40
+        "day": 40,
+        "night": 40
       },
       "geometry": {
         "coordinates": [
@@ -6204,7 +6214,8 @@
           43.245330808632815
         ],
         "morning": 40,
-        "day": 24
+        "day": 24,
+        "night": 48
       },
       "geometry": {
         "coordinates": [
@@ -6231,7 +6242,8 @@
           43.24532845540746
         ],
         "morning": 20,
-        "day": 48
+        "day": 48,
+        "night": 36
       },
       "geometry": {
         "coordinates": [
