@@ -5936,7 +5936,8 @@
         ],
         "morning": 68,
         "day": 40,
-        "night": 44
+        "night": 44,
+        "weekend": 36
       },
       "geometry": {
         "coordinates": [
@@ -5964,7 +5965,8 @@
         ],
         "morning": 8,
         "day": 44,
-        "night": 64
+        "night": 64,
+        "weekend": 68
       },
       "geometry": {
         "coordinates": [
@@ -5992,7 +5994,8 @@
         ],
         "morning": 32,
         "day": 24,
-        "night": 52
+        "night": 52,
+        "weekend": 28
       },
       "geometry": {
         "coordinates": [
@@ -6020,7 +6023,8 @@
         ],
         "morning": 20,
         "day": 40,
-        "night": 40
+        "night": 40,
+        "weekend": 12
       },
       "geometry": {
         "coordinates": [
@@ -6048,7 +6052,8 @@
         ],
         "morning": 60,
         "day": 44,
-        "night": 52
+        "night": 52,
+        "weekend": 40
       },
       "geometry": {
         "coordinates": [
@@ -6075,7 +6080,8 @@
           43.24499693018149
         ],
         "day": 44,
-        "night": 60
+        "night": 60,
+        "weekend": 52
       },
       "geometry": {
         "coordinates": [
@@ -6103,7 +6109,8 @@
         ],
         "morning": 92,
         "day": 44,
-        "night": 56
+        "night": 56,
+        "weekend": 36
       },
       "geometry": {
         "coordinates": [
@@ -6131,7 +6138,8 @@
         ],
         "morning": 8,
         "day": 44,
-        "night": 48
+        "night": 48,
+        "weekend": 60
       },
       "geometry": {
         "coordinates": [
@@ -6159,7 +6167,8 @@
         ],
         "morning": 36,
         "day": 24,
-        "night": 52
+        "night": 52,
+        "weekend": 32
       },
       "geometry": {
         "coordinates": [
@@ -6187,7 +6196,8 @@
         ],
         "morning": 28,
         "day": 40,
-        "night": 40
+        "night": 40,
+        "weekend": 16
       },
       "geometry": {
         "coordinates": [
@@ -6215,7 +6225,8 @@
         ],
         "morning": 40,
         "day": 24,
-        "night": 48
+        "night": 48,
+        "weekend": 28
       },
       "geometry": {
         "coordinates": [
@@ -6243,7 +6254,8 @@
         ],
         "morning": 20,
         "day": 48,
-        "night": 36
+        "night": 36,
+        "weekend": 16
       },
       "geometry": {
         "coordinates": [
