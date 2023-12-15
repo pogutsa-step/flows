@@ -7089,7 +7089,8 @@
           76.76978019114922,
           43.23039043698905
         ],
-        "orientation": "vert"
+        "orientation": "vert",
+        "morning": 105
       },
       "geometry": {
         "coordinates": [
