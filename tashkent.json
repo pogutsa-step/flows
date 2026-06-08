@@ -4358,6 +4358,454 @@
         ],
         "type": "LineString"
       }
+    },
+    {
+      "id": "96884355ed1764ea895ed5fb1e327e24",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25325692796757,
+          41.31122303074792
+        ],
+        "orientation": "hor",
+        "morning": 1960
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25333857257087,
+            41.31217975579895
+          ],
+          [
+            69.25319717150501,
+            41.31052279457339
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "ebb559e461a70a930d9005f2d14cbd5d",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25312478695572,
+          41.31166307407475
+        ],
+        "morning": 958
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25327545132825,
+            41.31218242373396
+          ],
+          [
+            69.25321084191893,
+            41.311576553976806
+          ],
+          [
+            69.25242733167929,
+            41.31159517798176
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "baa40fd01c845875e4b23bb01971f8e2",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25337866023655,
+          41.31161758080916
+        ],
+        "orientation": "hor",
+        "morning": 456
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25339822057998,
+            41.3121764596556
+          ],
+          [
+            69.25334969183498,
+            41.311341891056145
+          ],
+          [
+            69.25439602513114,
+            41.31129719326137
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "5a4e755028bfed9be810d7d6f2d535d7",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25342365631317,
+          41.3118163384334
+        ],
+        "morning": 68,
+        "orientation": "hor"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25344887034657,
+            41.3121626503264
+          ],
+          [
+            69.2534141578682,
+            41.31168587836876
+          ],
+          [
+            69.25353317208146,
+            41.311674703984096
+          ],
+          [
+            69.25356292563504,
+            41.312158925558634
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "d24d58b709c06271e8d159d37ee793dc",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25355541193592,
+          41.311552913751555
+        ],
+        "orientation": "hor",
+        "morning": 387
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25238175513198,
+            41.311361642638815
+          ],
+          [
+            69.25357685619369,
+            41.3113132200487
+          ],
+          [
+            69.2536366500529,
+            41.31215747773351
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "d0bcee8666aba70af9adc965ae0a2691",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25367043156174,
+          41.31168222354536
+        ],
+        "id": "d0bcee8666aba70af9adc965ae0a2691",
+        "color": "#006cff",
+        "orientation": "hor",
+        "morning": 1050
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25358754071362,
+            41.31048398715487
+          ],
+          [
+            69.2537037531981,
+            41.31216390756913
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "1f4de5c1f6a300aea16560e14c1f7c9a",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25286639777246,
+          41.31151888122087
+        ],
+        "id": "1f4de5c1f6a300aea16560e14c1f7c9a",
+        "color": "#006cff",
+        "orientation": "vert",
+        "morning": 484
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25440726879177,
+            41.31146866357838
+          ],
+          [
+            69.25240364830452,
+            41.31153396242303
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "4fd161dbb8e9b3326c07702a70004194",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25381838023554,
+          41.31161006645645
+        ],
+        "orientation": "vert",
+        "morning": 64
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25440252102476,
+            41.31151315651445
+          ],
+          [
+            69.25372991366532,
+            41.31154122409578
+          ],
+          [
+            69.25377407475523,
+            41.31216636254797
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "e0311e57ee51b98a16ba30356ec624d4",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25332806268457,
+          41.31111160433375
+        ],
+        "orientation": "hor",
+        "morning": 164
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25440591803198,
+            41.31141619568555
+          ],
+          [
+            69.25335624291006,
+            41.31145446971428
+          ],
+          [
+            69.25327606072761,
+            41.31051239326604
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "08aa454f5abd87cad47d5b520f98e26a",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25393869640091,
+          41.31126075655685
+        ],
+        "orientation": "vert",
+        "morning": 648
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25236756357253,
+            41.31132202749396
+          ],
+          [
+            69.25440438726798,
+            41.31124259557433
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "3d1c14114493f611d0195af8a79cc355",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25369776067566,
+          41.31104358010124
+        ],
+        "orientation": "hor",
+        "morning": 130
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25364481186605,
+            41.310481569877055
+          ],
+          [
+            69.2536917288636,
+            41.31120963143701
+          ],
+          [
+            69.25439968298645,
+            41.31118545647553
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "58c4b61c19aec1ed0e84e40f5b5ba62f",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25353559704423,
+          41.31117345054891
+        ],
+        "orientation": "hor",
+        "morning": 156
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25352620231001,
+            41.31048828970489
+          ],
+          [
+            69.25358620928714,
+            41.31143891218477
+          ],
+          [
+            69.25239541154292,
+            41.311479869228066
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "9b2cc871707b2cd0ea8d6d09572ba082",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25415788008141,
+          41.31138847301606
+        ],
+        "orientation": "vert",
+        "morning": 72
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25439855469682,
+            41.31138109429614
+          ],
+          [
+            69.25395516576509,
+            41.3113946879306
+          ],
+          [
+            69.25394973651237,
+            41.31134846956357
+          ],
+          [
+            69.25440036444766,
+            41.3113362352841
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "8a089e43cf75ed3cac0847124eaa2e94",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25285227201039,
+          41.31137795495828
+        ],
+        "orientation": "vert",
+        "morning": 4
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.2523859207893,
+            41.31139613619271
+          ],
+          [
+            69.25303109325793,
+            41.311370983407926
+          ],
+          [
+            69.25303555811973,
+            41.31142296581925
+          ],
+          [
+            69.25239261808082,
+            41.31144644173355
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "c5804d43ea28a82d7b61601ca701c053",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.25308791948086,
+          41.31110805060441
+        ],
+        "morning": 20
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.25235984868195,
+            41.31127759129157
+          ],
+          [
+            69.25315136709219,
+            41.31123539836105
+          ],
+          [
+            69.25309008824834,
+            41.3105104428347
+          ]
+        ],
+        "type": "LineString"
+      }
     }
   ]
 }
