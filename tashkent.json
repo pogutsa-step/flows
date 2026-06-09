@@ -6714,8 +6714,8 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.33996632614655,
-          41.30676996848017
+          69.34027567021126,
+          41.306906964719666
         ],
         "morning": 497,
         "orientation": "vert"
@@ -6848,8 +6848,8 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.33947787717523,
-          41.30631186773087
+          69.33893663112582,
+          41.30681251974628
         ],
         "morning": 2513,
         "orientation": "hor"
@@ -6874,8 +6874,8 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.33951351687107,
-          41.306103924994204
+          69.33967520445569,
+          41.30595652649923
         ],
         "morning": 3070,
         "orientation": "hor"
@@ -6900,10 +6900,10 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.33974077577882,
-          41.30674250331876
+          69.33911439730942,
+          41.30606973721348
         ],
-        "orientation": "vert",
+        "orientation": "hor",
         "morning": 1920
       },
       "geometry": {
@@ -7142,10 +7142,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.33775169164899,
-          41.30591007719823
+          69.33798460620969,
+          41.305986257994626
         ],
-        "morning": 280
+        "morning": 280,
+        "orientation": "vert"
       },
       "geometry": {
         "coordinates": [
