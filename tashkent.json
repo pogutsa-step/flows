@@ -8485,10 +8485,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.16620194291458,
-          41.274766005854744
+          69.1662100150017,
+          41.27464859017251
         ],
-        "morning": 624
+        "morning": 624,
+        "orientation": "hor"
       },
       "geometry": {
         "coordinates": [
