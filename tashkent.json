@@ -4488,10 +4488,10 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.25355541193592,
-          41.311552913751555
+          69.25312281718882,
+          41.31133419802612
         ],
-        "orientation": "hor",
+        "orientation": "vert",
         "morning": 387
       },
       "geometry": {
