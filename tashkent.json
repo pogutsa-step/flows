@@ -9930,8 +9930,8 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.19436212026132,
-          41.29217961760164
+          69.1943635710945,
+          41.29214813326107
         ],
         "orientation": "hor",
         "morning": 1386
@@ -10042,8 +10042,8 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.19373042470546,
-          41.29167915837916
+          69.19370747019181,
+          41.29166677794638
         ],
         "id": "262b6c24500fa249bdb576cb29c9ebb7",
         "color": "#006cff",
@@ -10247,10 +10247,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.1939060257472,
-          41.29171762565196
+          69.19399029606103,
+          41.291743057621716
         ],
-        "morning": 152
+        "morning": 152,
+        "orientation": "vert"
       },
       "geometry": {
         "coordinates": [
