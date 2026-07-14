@@ -2463,7 +2463,7 @@
           41.34086089323591
         ],
         "orientation": "hor",
-        "morning": 1650
+        "morning": 1047
       },
       "geometry": {
         "coordinates": [
@@ -2489,7 +2489,7 @@
           41.34096206922791
         ],
         "orientation": "hor",
-        "morning": 100
+        "morning": 200
       },
       "geometry": {
         "coordinates": [
@@ -2519,11 +2519,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.23118561709495,
-          41.34094439572394
+          69.23120811523081,
+          41.340923251210114
         ],
-        "orientation": "vert",
-        "morning": 390
+        "orientation": "hor",
+        "morning": 104
       },
       "geometry": {
         "coordinates": [
@@ -2552,7 +2552,7 @@
           69.23117922571966,
           41.34082995249122
         ],
-        "morning": 16
+        "morning": 8
       },
       "geometry": {
         "coordinates": [
@@ -2586,7 +2586,7 @@
           41.34108228675794
         ],
         "orientation": "vert",
-        "morning": 120
+        "morning": 116
       },
       "geometry": {
         "coordinates": [
@@ -2616,13 +2616,13 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.23088688971752,
-          41.34112962330829
+          69.2308870241545,
+          41.3411293767223
         ],
         "id": "8203a68d94fc24b518c5081af706ea0b",
         "color": "#006cff",
         "orientation": "hor",
-        "morning": 1255
+        "morning": 1406
       },
       "geometry": {
         "coordinates": [
@@ -2647,7 +2647,7 @@
           69.23065720726925,
           41.341077488697394
         ],
-        "morning": 729,
+        "morning": 415,
         "orientation": "vert"
       },
       "geometry": {
@@ -2674,11 +2674,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.23090751065331,
-          41.34096182373134
+          69.23105763017479,
+          41.34116623068695
         ],
-        "orientation": "vert",
-        "morning": 816
+        "orientation": "hor",
+        "morning": 370
       },
       "geometry": {
         "coordinates": [
@@ -2707,7 +2707,7 @@
           69.23067991551468,
           41.340948520298134
         ],
-        "morning": 4,
+        "morning": 16,
         "orientation": "vert"
       },
       "geometry": {
@@ -2738,11 +2738,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.23131827878979,
-          41.34102461405263
+          69.23135783706562,
+          41.34103498244213
         ],
         "orientation": "vert",
-        "morning": 1406
+        "morning": 1650
       },
       "geometry": {
         "coordinates": [
@@ -2775,7 +2775,7 @@
           69.23090822100896,
           41.34084115053054
         ],
-        "morning": 487,
+        "morning": 100,
         "orientation": "vert"
       },
       "geometry": {
@@ -2802,11 +2802,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.23126111016241,
-          41.341176060883285
+          69.23125289052946,
+          41.341174371045845
         ],
         "orientation": "vert",
-        "morning": 1063
+        "morning": 1255
       },
       "geometry": {
         "coordinates": [
@@ -2839,7 +2839,7 @@
           69.23134809732672,
           41.34122991639728
         ],
-        "morning": 200
+        "morning": 729
       },
       "geometry": {
         "coordinates": [
@@ -2869,11 +2869,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.23153931384779,
-          41.34110898430213
+          69.23145937497411,
+          41.341092892598944
         ],
         "orientation": "vert",
-        "morning": 136
+        "morning": 816
       },
       "geometry": {
         "coordinates": [
@@ -2903,10 +2903,11 @@
       "properties": {
         "type": "transport",
         "labelPos": [
-          69.23098523887236,
-          41.34118679810179
+          69.2309904239279,
+          41.341273581572636
         ],
-        "morning": 20
+        "morning": 4,
+        "orientation": "hor"
       },
       "geometry": {
         "coordinates": [
@@ -10283,6 +10284,40 @@
           [
             69.25658201547316,
             41.28090586574311
+          ]
+        ],
+        "type": "LineString"
+      }
+    },
+    {
+      "id": "49afd1ad7de73ad59bd53ffe93234df1",
+      "type": "Feature",
+      "properties": {
+        "type": "transport",
+        "labelPos": [
+          69.23162957113566,
+          41.34119205915595
+        ],
+        "morning": 16,
+        "orientation": "vert"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            69.2320394177761,
+            41.34126641248608
+          ],
+          [
+            69.23152672668218,
+            41.34117340137803
+          ],
+          [
+            69.23153816217038,
+            41.341136196897736
+          ],
+          [
+            69.23204322960416,
+            41.34123206993897
           ]
         ],
         "type": "LineString"
